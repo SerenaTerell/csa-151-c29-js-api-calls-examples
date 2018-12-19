@@ -1,0 +1,19 @@
+{
+  "name": "fetch_api_calls",
+  "version": "1.0.0",
+  "description": "Examples for API calls with ES6 fetch",
+  "main": "app.js",
+  "scripts": {
+    "start": "opener index.html"
+  },
+  "keywords": [],
+  "author": "Yvonne Leuck",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octlabs/csa-151-c29-js-api-calls-examples.git"
+  },
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "opener": "^1.5.1"
+  }
+}
